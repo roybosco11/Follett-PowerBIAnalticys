@@ -82,7 +82,7 @@ PowerBI-Analytics/
 │
 ├── src/
 │   │
-│   ├── Sales/
+│   ├── Sample-Inventory/
 │   │   ├── SemanticModels/
 │   │   │   └── SalesModel/
 │   │   │
